@@ -11,3 +11,6 @@ ul, ol, p {
     background-color: #c6c0b9;
 }
 
+img {
+    outline: solid  #c6c0b9;
+}
